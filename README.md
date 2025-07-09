@@ -76,4 +76,4 @@ If you’d like to contribute, feel free to fork the repo and open a pull reques
 
 This project is open-source and available under the MIT License.
 
-Made with ❤️ by [Badar Khan](https://www.linkedin.com/in/badarkhannn/)
+Made with ❤️ by [Jawad Ali](https://www.linkedin.com/in/jawad-ali-yousafzai-742a76356/)
