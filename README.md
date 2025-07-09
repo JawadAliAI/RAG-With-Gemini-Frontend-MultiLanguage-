@@ -1,6 +1,6 @@
 # Multilingual RAG Chatbot with Frontend
 
-This project is a **Multilingual Retrieval-Augmented Generation (RAG)** chatbot that supports **English** and **Spanish** using a simple web-based frontend. The chatbot is powered by sentence-transformers' [`BAAI/bge-m3`](https://huggingface.co/BAAI/bge-m3) for multilingual embeddings and provides real-time answers from documents using a FastAPI backend.
+This project is a **Multilingual Retrieval-Augmented Generation (RAG)** chatbot that supports **English** and **Spanish** using a simple web-based frontend. The chatbot is powered by sentence-transformers' [`BAAI/bge-m3`](https://huggingface.co/BAAI/bge-m3) for multilingual embeddings and provides real-time answers from documents using a FastAPI backend. 
 
 ![1748187254928](image/README/1748187254928.png)
 
